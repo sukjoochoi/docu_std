@@ -9,7 +9,7 @@
 import streamlit as st
 import openai
 import pandas as pd
-
+import os
 
 # Set the model engine and your OpenAI API key
 os.environ['OPENAI_API_KEY'] = "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"
