@@ -27,7 +27,7 @@ st.sidebar.info(
 
 
 options = st.multiselect('Select the Code(s)/Standard(s) about which you have a Question',
-['API RP 1111 Design, Construction, Operation, and Maintenance of. Offshore Hydrocarbon Pipelines (Limit State Design)',
+['API RP 1111 Design Construction Operation and Maintenance of Offshore Hydrocarbon Pipelines (Limit State Design)',
 'API RP 2A Recommended Practice for Planning, Designing, and Constructing Fixed Offshore Platforms,
 'API RP 2SK 2005 Design and Analysis of Stationkeeping Systems for Floating Structures,
 'API STD 53 Well Control Equipment Systems for Drilling Wells,
