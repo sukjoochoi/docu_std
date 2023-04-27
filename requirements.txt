@@ -1,0 +1,5 @@
+docx2txt
+openai
+llama_index
+PyPDF2
+tenacity
