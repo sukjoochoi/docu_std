@@ -27,22 +27,22 @@ st.sidebar.info(
 
 
 options = st.multiselect('Select the Code(s)/Standard(s) about which you have a Question',
-['API RP 1111 Design Construction Operation and Maintenance of Offshore Hydrocarbon Pipelines (Limit State Design)',
-'API RP 2A Recommended Practice for Planning, Designing, and Constructing Fixed Offshore Platforms,
-'API RP 2SK 2005 Design and Analysis of Stationkeeping Systems for Floating Structures,
-'API STD 53 Well Control Equipment Systems for Drilling Wells,
-'API RP 2GEO 2011 Geotechnical and Foundation Design,
-'API SP 8C Drilling and Production Hoisting Equipment,
-'API SP 6A Specification for Wellhead and Christmas Tree Equipment,
-'API RP 2RD Design of Risers for Floating Production Systems (FPSs) and Tension-Leg Platforms (TLPs),
-'API SP 5L Pipe Specifications,
-'API SP 17J 2014 Specification for Unbonded Flexible Pipe,
-'API SP 2B Spec for the fabrication of Structural steel pipe,
-'API RP 2GEO 2014 Geotechnical and Foundation Design,
-'API STD 1104 1999 Errata 2001 Welding of Pipelines and Related Facilities,
-'API RP 2INT-MET Interim Guidance for Assessment of Existing Offshore Structures for Hurricane Conditions,
-'API SP 17E 2010 Design and operation of subsea production system subsea umbilicals,
-'API Spec 17D Design and Operation of Subsea'])
+                        ['API RP 1111 Design Construction Operation and Maintenance of Offshore Hydrocarbon Pipelines (Limit State Design)',
+                        'API RP 2A Recommended Practice for Planning, Designing, and Constructing Fixed Offshore Platforms',
+                        'API RP 2SK 2005 Design and Analysis of Stationkeeping Systems for Floating Structures',
+                        'API STD 53 Well Control Equipment Systems for Drilling Wells',
+                        'API RP 2GEO 2011 Geotechnical and Foundation Design',
+                        'API SP 8C Drilling and Production Hoisting Equipment',
+                        'API SP 6A Specification for Wellhead and Christmas Tree Equipment',
+                        'API RP 2RD Design of Risers for Floating Production Systems (FPSs) and Tension-Leg Platforms (TLPs)',
+                        'API SP 5L Pipe Specifications',
+                        'API SP 17J 2014 Specification for Unbonded Flexible Pipe',
+                        'API SP 2B Spec for the fabrication of Structural steel pipe',
+                        'API RP 2GEO 2014 Geotechnical and Foundation Design',
+                        'API STD 1104 1999 Errata 2001 Welding of Pipelines and Related Facilities',
+                        'API RP 2INT-MET Interim Guidance for Assessment of Existing Offshore Structures for Hurricane Conditions',
+                        'API SP 17E 2010 Design and operation of subsea production system subsea umbilicals',
+                        'API Spec 17D Design and Operation of Subsea'])
 
 
 
