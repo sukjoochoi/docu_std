@@ -12,6 +12,7 @@ import pandas as pd
 
 
 # Set the model engine and your OpenAI API key
+os.environ['OPENAI_API_KEY'] = "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"
 model_engine = "text-davinci-003"
 openai.api_key = "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"
 
