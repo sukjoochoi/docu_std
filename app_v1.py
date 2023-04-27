@@ -12,9 +12,9 @@ import pandas as pd
 import os
 
 # Set the model engine and your OpenAI API key
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "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"
 model_engine = "text-davinci-003"
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 st.title("Codes and Standards Q & A")
